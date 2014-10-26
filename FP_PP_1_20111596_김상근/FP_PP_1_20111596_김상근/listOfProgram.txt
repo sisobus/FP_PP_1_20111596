@@ -1,0 +1,12 @@
+11
+ID0|Swimming|10:10|NAME0|3
+ID1|Swimming|10:10|NAME1|3
+ID2|Swimming|10:10|NAME2|3
+ID3|Swimming|10:10|NAME3|3
+ID4|Swimming|10:10|NAME4|3
+ID5|Swimming|10:10|NAME5|3
+ID6|Swimming|10:10|NAME6|3
+ID7|Swimming|10:10|NAME7|3
+ID8|Swimming|10:10|NAME8|3
+ID9|Swimming|10:10|NAME9|3
+ID13|fdsa|10:10|sangkeun|3
